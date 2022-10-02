@@ -16,7 +16,7 @@
 ## Contribution - 원종서
 * CUDA UE4간 인터페이스 구현
 * GPU based FRNN 알고리즘 구현
-* [Real Time Particle Based Snow Simulation On GPU]를 참고하여 Cohesion Force,  Weak forces, Compression이 적용된 눈 시뮬레이션을 병렬컴퓨팅으로 구현
+* [Real Time Particle Based Snow Simulation On GPU]를 참고하여 Cohesion Force 기반의 눈 시뮬레이션을 병렬컴퓨팅으로 구현
 * Material과 Custom Shader를 통한 Screen Space Rendering 구현
 
 ## 프로젝트 소개
