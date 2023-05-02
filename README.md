@@ -8,7 +8,7 @@
 협업방식 : AWS + Perforce(p4v)  
 팀원 :  
 -[강수한](https://github.com/tngksdlstk12)  
--[원종서](https://github.com/Wawtuh)    
+-[원종서](https://github.com/CodeNakWon)    
 -[박경숙](https://github.com/Tuesberry)    
 -[윤태웅](https://github.com/yuntaewoong)    
 -[안해영](https://github.com/anhaeyeong)
